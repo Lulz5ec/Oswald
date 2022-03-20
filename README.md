@@ -1,4 +1,9 @@
 # Oswald - Game
+* git add .
+* git commit -m "..."
+* git remote add origin https://github.com/Lulz5ec/Oswald.git
+* git branch -M main
+* git push -u origin main
 
 # Getting Started with Create React App
 
